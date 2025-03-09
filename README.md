@@ -1,8 +1,6 @@
-Sure, here is the updated `README.md` in Markdown with the correct GitHub URL:
 
----
 
-# Subtitle Translator
+# Subtitle Auto Translator
 
 ## Overview
 
